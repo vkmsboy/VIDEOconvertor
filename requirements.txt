@@ -2,3 +2,6 @@ https://github.com/vasusen-code/my-tt/archive/refs/tags/v1.24.0.zip
 cryptg
 ethon==0.1.2 #for VC
 tgcrypto
+Flask==2.2.2
+gunicorn==20.1.0
+aiohttp==3.8.1
